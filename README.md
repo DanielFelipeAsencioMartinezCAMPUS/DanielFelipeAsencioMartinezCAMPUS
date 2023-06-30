@@ -62,7 +62,7 @@ githubUsername: 'DanielFelipeAsencioMartinezCAMPUS'
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielFelipeAsencioMartinezCAMPUSi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MYSTATs">
 </p>
 
 <br>
